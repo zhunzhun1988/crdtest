@@ -1,0 +1,7 @@
+apiVersion: patrick.com/v1
+kind: Cluster
+metadata:
+  name: cluster1
+spec:
+  apiserver: 127.0.0.1:8080
+  name: cluster1
